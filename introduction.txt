@@ -1,0 +1,1 @@
+Unlike older centralized version control systems, Git is distributed. This means every developer has a full copy of the project history on their local machine, allowing them to work seamlessly offline, commit changes locally, and merge branches at lightning speed.
